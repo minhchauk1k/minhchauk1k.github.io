@@ -1,0 +1,30 @@
+{
+  "name": "demo-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhchauk1k/minhchauk1k.github.io.git"
+  },
+  "keywords": [
+    "nodejs",
+    "demo"
+  ],
+  "author": "minhchauk1k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhchauk1k/minhchauk1k.github.io/issues"
+  },
+  "homepage": "https://github.com/minhchauk1k/minhchauk1k.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
