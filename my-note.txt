@@ -1,0 +1,7 @@
+nodemon: auto start lại server node sau khi sửa file và có chức năng inspect/debug (--inspect)
+
+morgan: log lại các request gửi lên server của ta
+
+partials: chia thành các thành phần nhỏ
+
+node-sass: render file scss sang css và lắng nghe sự kiện thay đổi ở file scss để auto render
